@@ -110,6 +110,7 @@ body{
     table-layout: fixed;
     padding: 10px 0px 0px 60px;
     width: 50%;
+    cursor: pointer;
 }
 .background{
     display: flex;
